@@ -260,6 +260,7 @@ button:hover {
 }
 
 .manager-logout-button:hover {
-	background-color: #808080;
+	background-color: #000000;
 	/* ホバー時にボタンの背景色を濃い灰色に変更 */
 }
+
